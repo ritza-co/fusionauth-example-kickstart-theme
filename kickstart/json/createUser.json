@@ -3,8 +3,8 @@
   "url": "/api/user/registration/#{userID}",
   "body": {
     "user": {
-      "email": "test_user@email.com",
-      "password": "1234567890"
+      "email": "richard@example.com",
+      "password": "password"
     },
     "registration": {
       "applicationId": "#{FUSIONAUTH_APPLICATION_ID}",

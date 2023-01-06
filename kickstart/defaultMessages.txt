@@ -31,7 +31,7 @@ complete-registration=Complete registration
 configure=Configure
 configured=Configured
 create-an-account=Create an account
-complete-external-login=Complete login on your external device\\\u2026
+complete-external-login=Complete login on your external device\u2026
 completed-link=You have successfully linked your %s account.
 completed-links=You have successfully linked your %s and %s account.
 confirm=Confirm
@@ -78,8 +78,8 @@ login=Login
 login-cancel-link=Or, cancel the link request.
 login-with-passkey=Login with passkey
 logout=Logout
-logout-and-continue=Logout and continue\\\u2026
-logging-out=Logging out\\\u2026
+logout-and-continue=Logout and continue\u2026
+logging-out=Logging out\u2026
 logout-title=Logging out
 manage-webauthn-passkeys=Manage passkeys
 method=Method
@@ -158,7 +158,7 @@ webauthn-reauth-select-passkey=Welcome back, click on a passkey to continue.
 
 # Locale Specific separators, etc
 #  - list separator - comma and a space
-listSeparator=,\\\u0020
+listSeparator=,\u0020
 propertySeparator=:
 
 #
@@ -237,7 +237,7 @@ two-factor-method-authenticator=Authenticator
 two-factor-method-email=Email message
 two-factor-method-sms=Text message
 two-factor-get-code-at-authenticator=Get a code from your authenticator app
-two-factor-get-code-at-email=Get a code at %s\\\u2026
+two-factor-get-code-at-email=Get a code at %s\u2026
 two-factor-get-code-at-sms=Get a code at (***) ***-**%s
 
 # Form input place-holders
