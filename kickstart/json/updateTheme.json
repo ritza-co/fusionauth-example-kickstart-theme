@@ -5,7 +5,7 @@
   "body" : {
     "theme" : {
       "stylesheet" : "@{darkTheme.css}",
-      "defaultMessages" : "@{defaultMessages.rtf}"
+      "defaultMessages" : "@{defaultMessages.txt}"
     }
   }
 }
